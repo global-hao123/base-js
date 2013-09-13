@@ -1,0 +1,18 @@
+[submodule "src/helper"]
+	path = src/helper
+	url = http://gitlab.pro/common-ui/helper.git
+[submodule "src/UT"]
+	path = src/UT
+	url = http://gitlab.pro/common-ui/ut.git
+[submodule "src/localstorage"]
+	path = src/localstorage
+	url = http://gitlab.pro/common-ui/localstorage.git
+[submodule "src/localcookie"]
+	path = src/localcookie
+	url = http://gitlab.pro/common-ui/localcookie.git
+[submodule "src/eventcenter"]
+	path = src/eventcenter
+	url = http://gitlab.pro/common-ui/eventcenter.git
+[submodule "src/jquery"]
+	path = src/jquery
+	url = https://github.com/jquery/jquery.git
