@@ -101,7 +101,7 @@ common-ui owner 组成员可以直接 `commit` -> `master`
 
 `npm i`
 
-`grunt custom:-sizzle dist:../../dist`
+`grunt custom:-sizzle dist:../../dist/2.0.3`
 
 all: 83649
 
